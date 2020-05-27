@@ -13,6 +13,7 @@ im-in.space is moving to a much needed new server. Its name: [Rosetta](https://r
 - [ ] **First transfert of the attachments**
   - We've seen big perfomance impact during the copy. **On May 27th at ~~19:00~~ 20:30 CET (2:30pm ET), we'll stop the Mastodon instance to see if we can get that done faster. Downtime will be up to 3 hours even if the copy isn't done.**
 - [ ] Stop the instance and dump DB
+  - __Time to be confirmed__ but _targeting_ shutdown and moving starting Saturday May 30th at 14:00 CET (8am ET).
 - [ ] Change DNS
 - [ ] Transfert and restore of the DB
 - [ ] Transfert of possible remaining attachments
