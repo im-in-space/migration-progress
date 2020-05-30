@@ -7,12 +7,13 @@ im-in.space is moving to a much needed new server. Its name: [Rosetta](https://r
 
 ### Mastodon
 
+**Shutdown and moving starting Saturday May 30th at 14:00 CET (8am ET).**
+
 - [x] Installation of Mastodon
   - [x] Bonus: Elasticsearch
 - [x] Copy of our .env
 - [x] First transfert of the attachments
 - [ ] **Stop the instance and dump DB**
-  - Shutdown and moving starting Saturday May 30th at 14:00 CET (8am ET).
 - [x] Change DNS
 - [ ] Transfert and restore of the DB
 - [ ] Transfert of possible remaining attachments
@@ -22,6 +23,8 @@ im-in.space is moving to a much needed new server. Its name: [Rosetta](https://r
 
 ### Pleroma
 
+**Migration of Pleroma not yet planned.**
+
 - [ ] Installation of Pleroma
 - [ ] Copy of our .env
 - [ ] First transfert of the attachments
@@ -29,4 +32,4 @@ im-in.space is moving to a much needed new server. Its name: [Rosetta](https://r
 - [ ] Change DNS
 - [ ] Transfert and restore of the DB
 - [ ] Transfert of possible remaining attachments
-- [ ] First start of Mastodon on the new server
+- [ ] First start of Pleroma on the new server
