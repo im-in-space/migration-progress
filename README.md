@@ -11,7 +11,7 @@ im-in.space is moving to a much needed new server. Its name: [Rosetta](https://r
   - [x] Bonus: Elasticsearch
 - [x] Copy of our .env
 - [x] First transfert of the attachments
-- [ ] Stop the instance and dump DB
+- [ ] **Stop the instance and dump DB**
   - Shutdown and moving starting Saturday May 30th at 14:00 CET (8am ET).
 - [ ] Change DNS
 - [ ] Transfert and restore of the DB
