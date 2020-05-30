@@ -16,8 +16,8 @@ im-in.space is moving to a much needed new server. Its name: [Rosetta](https://r
 - [x] Stop the instance
 - [x] Change DNS
 - [x] Dump the DB for transfert
-- [ ] => **Transfert the DB to the new server**
-- [ ] Restore of the DB
+- [x] Transfert the DB to the new server
+- [ ] => **Restore of the DB**
 - [ ] Transfert of possible remaining attachments in the background
 - [ ] First start of Mastodon on the new server
 - [ ] Rebuild of the users' timelines
