@@ -7,8 +7,6 @@ im-in.space is moving to a much needed new server. Its name: [Rosetta](https://r
 
 ### Mastodon
 
-**Shutdown and moving starting Saturday May 30th at 14:00 CET (8am ET).**
-
 - [x] Installation of Mastodon
   - [x] Bonus: Elasticsearch
 - [x] Copy of our .env
@@ -21,7 +19,7 @@ im-in.space is moving to a much needed new server. Its name: [Rosetta](https://r
 - [x] First start of Mastodon on the new server
 - [x] Rebuild of the users' timelines
 - [ ] => **Build of the Elasticsearch index**
-- [ ] => **Transfert of possible remaining attachments in the background**
+- [x] Transfert of possible remaining attachments in the background
 
 ### Pleroma
 
