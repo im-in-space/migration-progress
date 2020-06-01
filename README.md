@@ -8,7 +8,7 @@ im-in.space is moving to a much needed new server. Its name: [Rosetta](https://r
 Apps:
 
 - [x] [Mastodon](#Mastodon)
-- [ ] [Pleroma](#Pleroma)
+- [x] [Pleroma](#Pleroma)
 - [ ] Halcyon 
 - [ ] Pinafore
 - [x] ~~Tooty~~ (Dropping support)
@@ -31,13 +31,11 @@ Apps:
 
 ### Pleroma
 
-**UNSCHEDULED - Pleroma can't run on the old server since the last upgrade.**
-
 - [x] Installation of Pleroma
 - [x] Copy of our config
 - [x] Stop the instance and dump DB
 - [x] Transfert of the DB
-- [ ] Restore DB
+- [x] Restore DB
 - [x] Change DNS
 - [x] Transfert of uploads
-- [ ] First start of Pleroma on the new server
+- [x] First start of Pleroma on the new server
