@@ -36,7 +36,8 @@ Apps:
 - [x] Installation of Pleroma
 - [x] Copy of our config
 - [x] Stop the instance and dump DB
+- [x] Transfert of the DB
+- [ ] Restore DB
 - [ ] Change DNS
-- [ ] Transfert and restore of the DB
 - [ ] Transfert of uploads
 - [ ] First start of Pleroma on the new server
