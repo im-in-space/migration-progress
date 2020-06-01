@@ -5,6 +5,14 @@ im-in.space is moving to a much needed new server. Its name: [Rosetta](https://r
 - [x] Basic configuration
 - [ ] Setup new backup
 
+Apps:
+
+- [x] [Mastodon](#Mastodon)
+- [ ] [Pleroma](#Pleroma)
+- [ ] Halcyon 
+- [ ] Pinafore
+- [x] ~~Tooty~~ (Dropping support)
+
 ### Mastodon
 
 - [x] Installation of Mastodon
