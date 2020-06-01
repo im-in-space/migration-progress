@@ -31,13 +31,12 @@ Apps:
 
 ### Pleroma
 
-**Migration of Pleroma not yet planned.**
+**UNSCHEDULED - Pleroma can't run on the old server since the last upgrade.**
 
-- [ ] Installation of Pleroma
-- [ ] Copy of our .env
-- [ ] First transfert of the attachments
+- [x] Installation of Pleroma
+- [x] Copy of our .env
 - [ ] Stop the instance and dump DB
 - [ ] Change DNS
 - [ ] Transfert and restore of the DB
-- [ ] Transfert of possible remaining attachments
+- [ ] Transfert of uploads
 - [ ] First start of Pleroma on the new server
