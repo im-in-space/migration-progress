@@ -34,8 +34,8 @@ Apps:
 **UNSCHEDULED - Pleroma can't run on the old server since the last upgrade.**
 
 - [x] Installation of Pleroma
-- [x] Copy of our .env
-- [ ] Stop the instance and dump DB
+- [x] Copy of our config
+- [x] Stop the instance and dump DB
 - [ ] Change DNS
 - [ ] Transfert and restore of the DB
 - [ ] Transfert of uploads
