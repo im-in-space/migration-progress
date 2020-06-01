@@ -3,7 +3,7 @@ im-in.space is moving to a much needed new server. Its name: [Rosetta](https://r
 ## Progress
 - [x] Get the new server
 - [x] Basic configuration
-- [ ] Setup new backup
+- [x] Setup new backup
 
 Apps:
 
