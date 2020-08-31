@@ -26,7 +26,7 @@ Apps:
 - [x] Restore of the DB
 - [x] First start of Mastodon on the new server
 - [x] Rebuild of the users' timelines
-- [ ] => **Build of the Elasticsearch index**
+- [x] Build of the Elasticsearch index
 - [x] Transfert of possible remaining attachments in the background
 
 ### Pleroma
