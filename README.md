@@ -1,5 +1,8 @@
 im-in.space is moving to a much needed new server. Its name: [Rosetta](https://rosetta.im-in.space).
 
+# Migration now complete! 
+Old server will now be repurposed. :)
+
 ## Progress
 - [x] Get the new server
 - [x] Basic configuration
@@ -9,8 +12,8 @@ Apps:
 
 - [x] [Mastodon](#Mastodon)
 - [x] [Pleroma](#Pleroma)
-- [ ] Halcyon 
-- [ ] Pinafore
+- [x] Halcyon 
+- [x] Pinafore
 - [x] ~~Tooty~~ (Dropping support)
 
 ### Mastodon
