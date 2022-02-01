@@ -27,3 +27,14 @@ Apps:
 - [ ] Rebuild of the users' timelines
 - [ ] Build of the Elasticsearch index
 - [ ] Transfert of possible remaining attachments in the background
+
+<style>
+ul.task-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.task-list-item-checkbox {
+  margin-right: 10px;
+}
+</style>
