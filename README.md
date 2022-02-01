@@ -1,44 +1,29 @@
-im-in.space is moving to a much needed new server. Its name: [Rosetta](https://rosetta.im-in.space).
+im-in.space is moving to a new server. Its name: [Lucy](https://en.wikipedia.org/wiki/Lucy_(spacecraft)).
 
-# Migration now complete! 
-Old server will now be repurposed. :)
 
 ## Progress
 - [x] Get the new server
 - [x] Basic configuration
-- [x] Setup new backup
+- [ ] Setup new backup
 
 Apps:
 
-- [x] [Mastodon](#Mastodon)
-- [x] [Pleroma](#Pleroma)
-- [x] Halcyon 
-- [x] Pinafore
-- [x] ~~Tooty~~ (Dropping support)
+- [ ] [Mastodon](#Mastodon)
+- [ ] Halcyon 
+- [ ] Pinafore
 
 ### Mastodon
 
-- [x] Installation of Mastodon
-  - [x] Bonus: Elasticsearch
-- [x] Copy of our .env
-- [x] First transfert of the attachments
-- [x] Stop the instance
-- [x] Change DNS
-- [x] Dump the DB for transfert
-- [x] Transfert the DB to the new server
-- [x] Restore of the DB
-- [x] First start of Mastodon on the new server
-- [x] Rebuild of the users' timelines
-- [x] Build of the Elasticsearch index
-- [x] Transfert of possible remaining attachments in the background
-
-### Pleroma
-
-- [x] Installation of Pleroma
-- [x] Copy of our config
-- [x] Stop the instance and dump DB
-- [x] Transfert of the DB
-- [x] Restore DB
-- [x] Change DNS
-- [x] Transfert of uploads
-- [x] First start of Pleroma on the new server
+- [ ] Installation of dependencies
+- [ ] Installation of Mastodon
+- [ ] Copy of our .env
+- [ ] First transfert of the attachments
+- [ ] Stop the instance
+- [ ] Change DNS
+- [ ] Dump the DB for transfert
+- [ ] Transfert the DB to the new server
+- [ ] Restore of the DB
+- [ ] First start of Mastodon on the new server
+- [ ] Rebuild of the users' timelines
+- [ ] Build of the Elasticsearch index
+- [ ] Transfert of possible remaining attachments in the background
