@@ -15,8 +15,8 @@ Apps:
 ### Mastodon
 
 - [x] Installation of dependencies
-- [ ] Installation of Mastodon
-- [ ] Copy of our .env
+- [x] Installation of Mastodon
+- [x] Copy of our .env
 - [ ] First transfert of the attachments
 - [ ] Stop the instance
 - [ ] Change DNS
