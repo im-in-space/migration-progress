@@ -18,12 +18,12 @@ Apps:
 - [x] Installation of Mastodon
 - [x] Copy of our .env
 - [ ] First transfert of the attachments
-- [ ] Stop the instance
+- [ ] Stop the instance (Mastodon/Sidekiq/Streaming/Tor)
 - [ ] Change DNS
 - [ ] Dump the DB for transfert
 - [ ] Transfert the DB to the new server
 - [ ] Restore of the DB
-- [ ] First start of Mastodon on the new server
+- [ ] Start Mastodon on the new server (Mastodon/Sidekiq/Streaming/Tor)
 - [ ] Rebuild of the users' timelines
 - [ ] Build of the Elasticsearch index
 - [ ] Transfert of possible remaining attachments in the background
