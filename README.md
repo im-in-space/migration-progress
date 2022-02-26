@@ -14,7 +14,7 @@ Apps:
 
 ### Mastodon
 
-- [ ] Installation of dependencies
+- [x] Installation of dependencies
 - [ ] Installation of Mastodon
 - [ ] Copy of our .env
 - [ ] First transfert of the attachments
