@@ -9,15 +9,15 @@ im-in.space is moving to a new server. Its name: [Lucy](https://en.wikipedia.org
 Apps:
 
 - [ ] [Mastodon](#Mastodon)
-- [ ] Halcyon 
-- [ ] Pinafore
+- [x] Halcyon 
+- [x] Pinafore
 
 ### Mastodon
 
 - [x] Installation of dependencies
 - [x] Installation of Mastodon
 - [x] Copy of our .env
-- [ ] First transfert of the attachments
+- [ ] **First transfert of the attachments (in progress)**
 - [ ] Stop the instance (Mastodon/Sidekiq/Streaming/Tor)
 - [ ] Change DNS
 - [ ] Dump the DB for transfert
