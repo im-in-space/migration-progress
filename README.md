@@ -4,7 +4,7 @@ im-in.space is moving to a new server. Its name: [Lucy](https://en.wikipedia.org
 ## Progress
 - [x] Get the new server
 - [x] Basic configuration
-- [ ] Setup new backup
+- [x] Setup new backup
 
 Apps:
 
@@ -18,12 +18,12 @@ Apps:
 - [x] Installation of Mastodon
 - [x] Copy of our .env
 - [ ] **First transfert of the attachments (in progress)**
-- [ ] Stop the instance (Mastodon/Sidekiq/Streaming/Tor)
+- [ ] Stop the instance on the old server (Mastodon/Sidekiq/Streaming/Tor)
 - [ ] Change DNS
-- [ ] Dump the DB for transfert
-- [ ] Transfert the DB to the new server
-- [ ] Restore of the DB
-- [ ] Start Mastodon on the new server (Mastodon/Sidekiq/Streaming/Tor)
+- [ ] Dump the DB/Redis for transfert
+- [ ] Transfert the DB/Redis to the new server
+- [ ] Restore of the DB/Redis
+- [ ] Start the install on the new server (Mastodon/Sidekiq/Streaming/Tor)
 - [ ] Rebuild of the users' timelines
 - [ ] Build of the Elasticsearch index
 - [ ] Transfert of possible remaining attachments in the background
