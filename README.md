@@ -17,7 +17,7 @@ Apps:
 - [x] Installation of dependencies
 - [x] Installation of Mastodon
 - [x] Copy of our .env
-- [ ] **First transfert of the attachments (in progress)**
+- [x] First transfert of the attachments
 - [ ] Stop the instance on the old server (Mastodon/Sidekiq/Streaming/Tor)
 - [ ] Change DNS
 - [ ] Dump the DB/Redis for transfert
