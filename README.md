@@ -8,7 +8,7 @@ im-in.space is moving to a new server. Its name: [Lucy](https://en.wikipedia.org
 
 Apps:
 
-- [ ] [Mastodon](#Mastodon)
+- [ ] Mastodon
 - [x] Halcyon 
 - [x] Pinafore
 
@@ -18,7 +18,7 @@ Apps:
 - [x] Installation of Mastodon
 - [x] Copy of our .env
 - [x] First transfert of the attachments
-- [ ] Stop the instance on the old server (Mastodon/Sidekiq/Streaming/Tor)
+- [x] **Stop the instance on the old server (Mastodon/Sidekiq/Streaming/Tor) (in progress)**
 - [ ] Change DNS
 - [ ] Dump the DB/Redis for transfert
 - [ ] Transfert the DB/Redis to the new server
