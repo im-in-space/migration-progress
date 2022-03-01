@@ -24,8 +24,8 @@ Apps:
 - [x] Transfert the DB/Redis to the new server
 - [x] Restore of the DB/Redis
 - [ ] **Start the install on the new server (Mastodon/Sidekiq/Streaming/Tor) (in progress)**
-- [ ] Rebuild of the users' timelines
-- [ ] Build of the Elasticsearch index
+- [x] Rebuild of the users' timelines
+- [ ] **Build of the Elasticsearch index (in progress)**
 - [ ] **Transfert of possible remaining attachments in the background (in progress)**
 
 <style>
