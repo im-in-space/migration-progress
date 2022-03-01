@@ -21,12 +21,12 @@ Apps:
 - [x] Stop the instance on the old server (Mastodon/Sidekiq/Streaming/Tor)
 - [x] Change DNS
 - [x] Dump the DB/Redis for transfert
-- [ ] **Transfert the DB/Redis to the new server (in progress)**
-- [ ] Restore of the DB/Redis
+- [x] Transfert the DB/Redis to the new server
+- [ ] **Restore of the DB/Redis (in progress)**
 - [ ] Start the install on the new server (Mastodon/Sidekiq/Streaming/Tor)
 - [ ] Rebuild of the users' timelines
 - [ ] Build of the Elasticsearch index
-- [ ] Transfert of possible remaining attachments in the background
+- [ ] **Transfert of possible remaining attachments in the background (in progress)**
 
 <style>
 ul.task-list {
