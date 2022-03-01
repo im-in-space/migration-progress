@@ -18,9 +18,9 @@ Apps:
 - [x] Installation of Mastodon
 - [x] Copy of our .env
 - [x] First transfert of the attachments
-- [x] **Stop the instance on the old server (Mastodon/Sidekiq/Streaming/Tor) (in progress)**
-- [ ] Change DNS
-- [ ] Dump the DB/Redis for transfert
+- [x] Stop the instance on the old server (Mastodon/Sidekiq/Streaming/Tor)
+- [x] Change DNS
+- [ ] **Dump the DB/Redis for transfert (in progress)**
 - [ ] Transfert the DB/Redis to the new server
 - [ ] Restore of the DB/Redis
 - [ ] Start the install on the new server (Mastodon/Sidekiq/Streaming/Tor)
