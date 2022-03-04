@@ -8,7 +8,7 @@ im-in.space is moving to a new server. Its name: [Lucy](https://en.wikipedia.org
 
 Apps:
 
-- [ ] Mastodon
+- [x] Mastodon
 - [x] Halcyon 
 - [x] Pinafore
 
@@ -25,8 +25,8 @@ Apps:
 - [x] Restore of the DB/Redis
 - [x] Start the install on the new server (Mastodon/Sidekiq/Streaming/Tor)
 - [x] Rebuild of the users' timelines
-- [ ] **Build of the Elasticsearch index (in progress)**
-- [ ] **Transfert of possible remaining attachments in the background (in progress)**
+- [x] Build of the Elasticsearch index
+- [x] Transfert of possible remaining attachments in the background
 
 <style>
 ul.task-list {
